@@ -2,6 +2,9 @@
 
 Bot de Discord para gestionar **alianzas entre servidores**, con registro manual, detección automática de invitaciones y un sistema completo de **auto-alianza** validado por requisitos configurables.
 
+-[Invitar](https://discord.com/oauth2/authorize?client_id=1528996290569048096&scope=bot+applications.commands&permissions=84992
+)
+
 ## Índice
 
 - [Requisitos previos](#requisitos-previos)
